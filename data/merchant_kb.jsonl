@@ -1,0 +1,88 @@
+{"name": "THEOBROMA", "category": "food_dining", "note": "Bakery and dessert cafe chain"}
+{"name": "CHAAYOS", "category": "food_dining", "note": "Tea cafe chain"}
+{"name": "BLUE TOKAI", "category": "food_dining", "note": "Specialty coffee roaster and cafe chain", "aliases": ["BLUETOKAI"]}
+{"name": "THIRD WAVE COFFEE", "category": "food_dining", "note": "Coffee cafe chain", "aliases": ["THIRDWAVE"]}
+{"name": "WOW MOMO", "category": "food_dining", "note": "Momo quick-service restaurant chain", "aliases": ["WOWMOMO"]}
+{"name": "BEHROUZ BIRYANI", "category": "food_dining", "note": "Delivery-only biryani brand", "aliases": ["BEHROUZ"]}
+{"name": "EATSURE", "category": "food_dining", "note": "Food ordering app for delivery-only restaurant brands"}
+{"name": "SAGAR RATNA", "category": "food_dining", "note": "South Indian restaurant chain", "aliases": ["SAGARRATNA"]}
+{"name": "BIKANERVALA", "category": "food_dining", "note": "Sweets, snacks and restaurant chain", "aliases": ["BIKANERWALA"]}
+{"name": "BURGER KING", "category": "food_dining", "note": "Fast-food burger chain", "aliases": ["BURGERKING"]}
+{"name": "BARBEQUE NATION", "category": "food_dining", "note": "Buffet restaurant chain", "aliases": ["BARBEQUENATION", "BBQ NATION"]}
+{"name": "PIZZA HUT", "category": "food_dining", "note": "Pizza restaurant and delivery chain", "aliases": ["PIZZAHUT"]}
+{"name": "SUBWAY", "category": "food_dining", "note": "Sandwich restaurant chain"}
+{"name": "RELIANCE FRESH", "category": "groceries", "note": "Supermarket and fresh produce chain", "aliases": ["RELIANCEFRESH"]}
+{"name": "SPENCERS RETAIL", "category": "groceries", "note": "Supermarket chain", "aliases": ["SPENCERS"]}
+{"name": "NATURES BASKET", "category": "groceries", "note": "Gourmet grocery store chain", "aliases": ["NATURESBASKET"]}
+{"name": "MORE RETAIL", "category": "groceries", "note": "Supermarket chain, shown on statements as MORE", "aliases": ["MORERETAIL"]}
+{"name": "COUNTRY DELIGHT", "category": "groceries", "note": "Milk and daily-essentials subscription delivery", "aliases": ["COUNTRYDELIGHT"]}
+{"name": "MILKBASKET", "category": "groceries", "note": "Early-morning grocery and milk subscription delivery"}
+{"name": "LICIOUS", "category": "groceries", "note": "Raw meat and seafood delivery"}
+{"name": "FRESHTOHOME", "category": "groceries", "note": "Raw fish and meat delivery"}
+{"name": "REDBUS", "category": "transport", "note": "Intercity bus ticket booking"}
+{"name": "NAMMA YATRI", "category": "transport", "note": "Auto-rickshaw and cab booking app", "aliases": ["NAMMAYATRI"]}
+{"name": "BLU SMART", "category": "transport", "note": "Electric cab service", "aliases": ["BLUSMART"]}
+{"name": "MAKEMYTRIP", "category": "transport", "note": "Flight, train and bus booking; it also sells hotel stays", "aliases": ["MMT"]}
+{"name": "IXIGO", "category": "transport", "note": "Train, flight and bus booking"}
+{"name": "AIR INDIA", "category": "transport", "note": "Airline", "aliases": ["AIRINDIA"]}
+{"name": "AKASA AIR", "category": "transport", "note": "Airline", "aliases": ["AKASA"]}
+{"name": "SPICEJET", "category": "transport", "note": "Airline"}
+{"name": "YULU", "category": "transport", "note": "Electric bike rentals"}
+{"name": "NETC FASTAG", "category": "transport", "note": "Highway toll payments through FASTag", "aliases": ["NETC"]}
+{"name": "INDIAN OIL", "category": "transport", "note": "Fuel station chain", "aliases": ["IOCL", "INDIANOIL"]}
+{"name": "BHARAT PETROLEUM", "category": "transport", "note": "Fuel station chain", "aliases": ["BPCL"]}
+{"name": "HINDUSTAN PETROLEUM", "category": "transport", "note": "Fuel station chain", "aliases": ["HPCL", "HP PETROL"]}
+{"name": "CROMA", "category": "shopping", "note": "Electronics retail chain"}
+{"name": "RELIANCE DIGITAL", "category": "shopping", "note": "Electronics retail chain", "aliases": ["RELIANCEDIGITAL"]}
+{"name": "DECATHLON", "category": "shopping", "note": "Sports goods retailer"}
+{"name": "IKEA", "category": "shopping", "note": "Furniture and home goods retailer"}
+{"name": "TATA CLIQ", "category": "shopping", "note": "E-commerce marketplace", "aliases": ["TATACLIQ"]}
+{"name": "LENSKART", "category": "shopping", "note": "Eyewear retailer"}
+{"name": "UNIQLO", "category": "shopping", "note": "Clothing retailer"}
+{"name": "ZARA", "category": "shopping", "note": "Clothing retailer"}
+{"name": "FIRSTCRY", "category": "shopping", "note": "Baby and kids products retailer"}
+{"name": "PEPPERFRY", "category": "shopping", "note": "Online furniture retailer"}
+{"name": "SHOPPERS STOP", "category": "shopping", "note": "Department store chain", "aliases": ["SHOPPERSSTOP"]}
+{"name": "INDRAPRASTHA GAS", "category": "bills_utilities", "note": "Piped cooking gas supplier in Delhi NCR", "aliases": ["IGL"]}
+{"name": "MAHANAGAR GAS", "category": "bills_utilities", "note": "Piped cooking gas supplier in Mumbai", "aliases": ["MGL"]}
+{"name": "DELHI JAL BOARD", "category": "bills_utilities", "note": "Delhi's water utility", "aliases": ["DJB"]}
+{"name": "TATA PLAY", "category": "bills_utilities", "note": "DTH television subscription", "aliases": ["TATAPLAY", "TATA SKY"]}
+{"name": "EXCITEL", "category": "bills_utilities", "note": "Broadband internet provider"}
+{"name": "VI", "category": "bills_utilities", "note": "Vodafone Idea mobile network", "aliases": ["VODAFONE IDEA", "VODAFONE"]}
+{"name": "ADANI ELECTRICITY", "category": "bills_utilities", "note": "Electricity supplier in Mumbai", "aliases": ["AEML"]}
+{"name": "NOBROKER", "category": "rent", "note": "Rental platform; payments through it are usually rent"}
+{"name": "CRED RENTPAY", "category": "rent", "note": "Rent paid by credit card through CRED", "aliases": ["CREDRENTPAY"]}
+{"name": "HOUSING COM", "category": "rent", "note": "Rental platform; payments through it are usually rent", "aliases": ["HOUSING"]}
+{"name": "CRED CLUB", "category": "emi_loans", "note": "Credit card bill payments; CRED RENTPAY is rent instead", "aliases": ["CRED"]}
+{"name": "KREDITBEE", "category": "emi_loans", "note": "Personal loan app"}
+{"name": "SLICE", "category": "emi_loans", "note": "Credit card and pay-later repayments"}
+{"name": "SIMPL", "category": "emi_loans", "note": "Pay-later checkout; payments to it are repayments"}
+{"name": "LAZYPAY", "category": "emi_loans", "note": "Pay-later service; payments to it are repayments"}
+{"name": "MONEYVIEW", "category": "emi_loans", "note": "Personal loan app"}
+{"name": "ANGEL ONE", "category": "investments", "note": "Stock broker", "aliases": ["ANGELONE", "ANGEL BROKING"]}
+{"name": "INDMONEY", "category": "investments", "note": "Stocks and mutual fund investing app"}
+{"name": "ET MONEY", "category": "investments", "note": "Mutual fund investing app", "aliases": ["ETMONEY"]}
+{"name": "PAYTM MONEY", "category": "investments", "note": "Stocks and mutual fund investing app; plain PAYTM is a payment app", "aliases": ["PAYTMMONEY"]}
+{"name": "NPS TRUST", "category": "investments", "note": "National Pension System contributions", "aliases": ["NPS"]}
+{"name": "SMALLCASE", "category": "investments", "note": "Stock portfolio investing platform"}
+{"name": "BSE STAR MF", "category": "investments", "note": "Mutual fund transaction platform used for SIPs", "aliases": ["BSESTARMF"]}
+{"name": "PRIME VIDEO", "category": "entertainment", "note": "Video streaming subscription", "aliases": ["PRIMEVIDEO", "AMAZON PRIME"]}
+{"name": "YOUTUBE PREMIUM", "category": "entertainment", "note": "Video and music streaming subscription", "aliases": ["YOUTUBE"]}
+{"name": "SONYLIV", "category": "entertainment", "note": "Video streaming subscription"}
+{"name": "ZEE5", "category": "entertainment", "note": "Video streaming subscription", "aliases": ["ZEE"]}
+{"name": "INOX", "category": "entertainment", "note": "Cinema chain"}
+{"name": "CINEPOLIS", "category": "entertainment", "note": "Cinema chain"}
+{"name": "SMAAASH", "category": "entertainment", "note": "Gaming and entertainment centres"}
+{"name": "FUN CITY", "category": "entertainment", "note": "Family entertainment and gaming centres", "aliases": ["FUNCITY"]}
+{"name": "DISTRICT APP", "category": "entertainment", "note": "Movie, event and going-out ticket booking", "aliases": ["DISTRICT"]}
+{"name": "APOLLO PHARMACY", "category": "health", "note": "Pharmacy chain", "aliases": ["APOLLO"]}
+{"name": "TATA 1MG", "category": "health", "note": "Online pharmacy and lab tests", "aliases": ["1MG", "TATAMG"]}
+{"name": "CULT FIT", "category": "health", "note": "Gyms and fitness memberships", "aliases": ["CULTFIT", "CUREFIT"]}
+{"name": "MAX HEALTHCARE", "category": "health", "note": "Hospital chain", "aliases": ["MAX HOSPITAL"]}
+{"name": "FORTIS", "category": "health", "note": "Hospital chain"}
+{"name": "DR LAL PATHLABS", "category": "health", "note": "Diagnostic lab chain", "aliases": ["LAL PATHLABS"]}
+{"name": "METROPOLIS", "category": "health", "note": "Diagnostic lab chain"}
+{"name": "MEDPLUS", "category": "health", "note": "Pharmacy chain"}
+{"name": "PAYTM", "category": "other", "note": "Payment app and wallet; the payee decides the category, so use other if no payee is visible"}
+{"name": "PHONEPE", "category": "other", "note": "Payment app; the payee decides the category, so use other if no payee is visible"}
+{"name": "URBAN COMPANY", "category": "other", "note": "Home services such as cleaning, repairs and salon at home", "aliases": ["URBANCLAP"]}
